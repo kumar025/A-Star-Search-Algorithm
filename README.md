@@ -3,5 +3,5 @@ A-Star search algorithm is a path-finding algorithm with many uses, including Ar
 
 Steps for execution.
 ---------------------
-Input file to be provied in resources folder.
-Input file path to be updated in PathReader.java file.
+1. Put Input file in resources folder.
+2. Update input file path in astar.caller.PathReader.java file.
